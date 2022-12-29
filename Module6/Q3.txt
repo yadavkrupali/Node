@@ -1,0 +1,5 @@
+Q3. What is different between encryption and hashing.
+==> Hashing and encryption are the two most important and fundamental operations of a computer system.
+    Both of these techniques change the raw data into a different format.
+    Hashing on an input text provides a hash value.
+    encryption transforms the data into ciphertext.
